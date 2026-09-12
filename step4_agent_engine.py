@@ -9,8 +9,9 @@ from step3_candidate_generator import CandidatePlanGenerator
 
 class BuyOrWaitAgent:
     """
-    Complete Buy or Wait AI Financial Decision Agent.
-    Converts amounts back to requested currency and structures the required challenge schema.
+    Buy or Wait AI Financial Decision Agent.
+    Reconstructs financial positions, reserves pending debits, ignores unrealized/unconfirmed credits,
+    and outputs exactly the 8 required CSV columns.
     """
     
     def __init__(self, base_dir: str = "."):
@@ -27,15 +28,8 @@ class BuyOrWaitAgent:
         profile = self.simulator.get_user_profile(u_id)
         home_curr = str(profile.get('home_currency', 'USD'))
         
-        # Safe extraction for currency column variant
-        if 'currency' in request_row:
-            req_curr = str(request_row['currency'])
-        elif 'requested_currency' in request_row:
-            req_curr = str(request_row['requested_currency'])
-        else:
-            req_curr = home_curr
-        
-        # Determine exchange rate factor from Step 1 processing or lookup table
+        # Safely determine currency & exchange rates
+        req_curr = str(request_row.get('currency', request_row.get('requested_currency', home_curr)))
         rate_to_home = float(request_row.get('exchange_rate_to_home', 1.0))
         if rate_to_home <= 0:
             rate_to_home = 1.0
@@ -55,54 +49,81 @@ class BuyOrWaitAgent:
 
         req_amount_home = req_amount_orig * rate_to_home
         
-        # Temporarily adapt request row for home currency calculations
         req_home_row = request_row.copy()
         req_home_row['requested_amount'] = req_amount_home
         
-        # 1. Base Metrics Calculation
+        # 1. Simulator liquidity & reserve buffer evaluation
         safe_today_home, earliest_date = self.simulator.calculate_base_metrics(u_id, req_date, req_amount_home)
         safe_today_orig = round(safe_today_home / rate_to_home, 2)
         
-        # 2. Candidate Generation & Selection
+        # 2. Candidate strategy selection
         candidates = self.generator.generate_candidate_plans(req_home_row)
         best_plan = self.generator.select_best_plan(u_id, candidates)
         
-        rec_type = best_plan['recommendation_type']
+        internal_rec = best_plan['recommendation_type']
         
-        # 3. Format Payment Schedule back to original requested currency
-        schedule_formatted = []
-        for p_date, p_amt_home in best_plan.get('schedule', []):
-            p_amt_orig = round(p_amt_home / rate_to_home, 2)
-            schedule_formatted.append({
-                "date": p_date,
-                "amount": p_amt_orig,
-                "currency": req_curr
-            })
+        # 3. Map to exact required 5 decisions & affordability status schema
+        if internal_rec == 'BUY_NOW':
+            affordability_status = "affordable_now"
+            recommended_payment_method = "full_payment"
+        elif internal_rec == 'INSTALLMENTS':
+            affordability_status = "affordable_with_plan"
+            recommended_payment_method = "installments"
+        elif internal_rec == 'BUY_WITH_ADJUSTMENTS':
+            if safe_today_orig > 0:
+                affordability_status = "affordable_with_plan"
+                recommended_payment_method = "partial_payment"
+            else:
+                affordability_status = "affordable_with_plan"
+                recommended_payment_method = "installments"
+        elif internal_rec == 'WAIT':
+            affordability_status = "affordable_later"
+            recommended_payment_method = "wait"
+        else: # CANNOT_AFFORD
+            affordability_status = "not_affordable"
+            recommended_payment_method = "not_recommended"
             
-        # 4. Generate Natural Language Rationale
-        if rec_type == 'BUY_NOW':
-            reasoning = f"Sufficient liquidity headroom. Full payment of {req_curr} {req_amount_orig:,.2f} maintains required safety buffer."
-        elif rec_type == 'INSTALLMENTS':
-            m = best_plan.get('installment_months', 1)
-            reasoning = f"Full payment upfront risks safety balance buffer. Recommended split into {m} monthly installments."
-        elif rec_type == 'WAIT':
-            d_days = best_plan.get('delay_days', 0)
-            reasoning = f"Immediate purchase violates minimum safety balance. Delaying payment by {d_days} days to {earliest_date} ensures full safety."
-        elif rec_type == 'BUY_WITH_ADJUSTMENTS':
-            reasoning = "Purchase is safe today provided specified non-essential spending categories are paused or reduced."
+        # 4. Format payment_plan string (e.g., "YYYY-MM-DD:AMOUNT|YYYY-MM-DD:AMOUNT")
+        schedule_list = best_plan.get('schedule', [])
+        if schedule_list:
+            plan_tokens = []
+            for p_date, p_amt_home in schedule_list:
+                p_amt_orig = round(p_amt_home / rate_to_home, 2)
+                plan_tokens.append(f"{p_date}:{int(p_amt_orig) if p_amt_orig.is_integer() else p_amt_orig}")
+            payment_plan = "|".join(plan_tokens)
         else:
-            reasoning = f"Insufficient projected cash flow over 90-day horizon to safely cover {req_curr} {req_amount_orig:,.2f}."
+            payment_plan = "none"
 
-        # 5. Assemble Challenge Response Schema
+        # 5. Format spending_changes_needed
+        adjustments = best_plan.get('spending_changes', [])
+        if adjustments:
+            spending_changes_needed = "|".join([f"{adj.get('category')}:{adj.get('reduction_pct', 0)}%" for adj in adjustments])
+        else:
+            spending_changes_needed = "none"
+
+        # 6. Generate precise financial explanation
+        if recommended_payment_method == "full_payment":
+            decision_explanation = f"Full payment of {req_curr} {req_amount_orig:,.2f} is safe today while preserving user's minimum required balance and accounting for pending debits."
+        elif recommended_payment_method == "partial_payment":
+            decision_explanation = f"Full payment exceeds current liquid headroom after reserving pending debits. A partial payment of {req_curr} {safe_today_orig:,.2f} is safe today, with remaining balance scheduled later."
+        elif recommended_payment_method == "installments":
+            m = best_plan.get('installment_months', 1)
+            decision_explanation = f"Lump sum upfront payment reduces projected balance below safety limits. Splitting into {m} installments maintains required minimum balance."
+        elif recommended_payment_method == "wait":
+            decision_explanation = f"Immediate purchase violates safety reserves. Delaying payment to {earliest_date} allows pending confirmed salary settlement to cover the request safely."
+        else:
+            decision_explanation = f"Insufficient projected net cash flow over 90-day horizon to safely cover {req_curr} {req_amount_orig:,.2f} without breaching minimum safety balance."
+
+        # Return exact 8-column dictionary mapping
         return {
             "request_id": req_id,
-            "user_id": u_id,
-            "recommendation": rec_type,
-            "amount_safe_to_pay_today": safe_today_orig,
+            "amount_safe_to_pay": safe_today_orig,
+            "affordability_status": affordability_status,
+            "recommended_payment_method": recommended_payment_method,
+            "payment_plan": payment_plan,
             "earliest_date_for_full_payment": earliest_date if earliest_date else "N/A",
-            "payment_schedule": schedule_formatted,
-            "spending_adjustments": best_plan.get('spending_changes', []),
-            "reasoning": reasoning
+            "spending_changes_needed": spending_changes_needed,
+            "decision_explanation": decision_explanation
         }
 
     def process_all_requests(self) -> List[Dict[str, Any]]:
