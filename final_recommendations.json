@@ -1,0 +1,4754 @@
+[
+  {
+    "request_id": "request_26",
+    "user_id": "user_26",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 15656000.0,
+    "earliest_date_for_full_payment": "2025-08-03",
+    "payment_schedule": [
+      {
+        "date": "2025-08-03",
+        "amount": 15656000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 15,656,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_27",
+    "user_id": "user_27",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 6670.0,
+    "earliest_date_for_full_payment": "2026-07-05",
+    "payment_schedule": [
+      {
+        "date": "2026-07-05",
+        "amount": 6670.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 6,670.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_28",
+    "user_id": "user_28",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 689.4,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-06-07",
+        "amount": 217.07,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-07-07",
+        "amount": 217.07,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-08-06",
+        "amount": 217.07,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-09-05",
+        "amount": 217.07,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-10-05",
+        "amount": 217.07,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-11-04",
+        "amount": 217.07,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_29",
+    "user_id": "user_29",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 51524.0,
+    "earliest_date_for_full_payment": "2025-11-04",
+    "payment_schedule": [
+      {
+        "date": "2025-11-04",
+        "amount": 51524.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 51,524.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_30",
+    "user_id": "user_30",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 775.2,
+    "earliest_date_for_full_payment": "2026-04-06",
+    "payment_schedule": [
+      {
+        "date": "2026-04-06",
+        "amount": 775.2,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 775.20 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_31",
+    "user_id": "user_31",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 13840360.0,
+    "earliest_date_for_full_payment": "2024-09-15",
+    "payment_schedule": [
+      {
+        "date": "2024-09-03",
+        "amount": 9082000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2024-10-03",
+        "amount": 9082000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_32",
+    "user_id": "user_32",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 33305.8,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-02-05",
+        "amount": 10004.5,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2025-03-07",
+        "amount": 10004.5,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2025-04-06",
+        "amount": 10004.5,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2025-05-06",
+        "amount": 10004.5,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_33",
+    "user_id": "user_33",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 65180.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-01-07",
+        "amount": 19666.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-02-06",
+        "amount": 19666.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-03-08",
+        "amount": 19666.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-04-07",
+        "amount": 19666.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-05-07",
+        "amount": 19666.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-06-06",
+        "amount": 19666.67,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_34",
+    "user_id": "user_34",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 129400.0,
+    "earliest_date_for_full_payment": "2024-12-04",
+    "payment_schedule": [
+      {
+        "date": "2024-12-04",
+        "amount": 129400.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 129,400.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_35",
+    "user_id": "user_35",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 125130.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-10-30",
+        "amount": 35333.33,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-11-29",
+        "amount": 35333.33,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-12-29",
+        "amount": 35333.33,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-01-28",
+        "amount": 35333.33,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-02-27",
+        "amount": 35333.33,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-03-29",
+        "amount": 35333.33,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_36",
+    "user_id": "user_36",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 1446.6,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover USD 3,954.00."
+  },
+  {
+    "request_id": "request_37",
+    "user_id": "user_37",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 12068800.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-03-05",
+        "amount": 3662250.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2024-04-04",
+        "amount": 3662250.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2024-05-04",
+        "amount": 3662250.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2024-06-03",
+        "amount": 3662250.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_38",
+    "user_id": "user_38",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 379.4,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover EUR 971.30."
+  },
+  {
+    "request_id": "request_39",
+    "user_id": "user_39",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 203105.0,
+    "earliest_date_for_full_payment": "2026-04-15",
+    "payment_schedule": [
+      {
+        "date": "2026-04-04",
+        "amount": 104300.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-05-04",
+        "amount": 104300.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_40",
+    "user_id": "user_40",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 894.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-06-06",
+        "amount": 258.06,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-07-06",
+        "amount": 258.06,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-08-05",
+        "amount": 258.06,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-09-04",
+        "amount": 258.06,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-10-04",
+        "amount": 258.06,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 5 monthly installments."
+  },
+  {
+    "request_id": "request_41",
+    "user_id": "user_41",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 24809250.0,
+    "earliest_date_for_full_payment": "2025-11-15",
+    "payment_schedule": [
+      {
+        "date": "2025-11-03",
+        "amount": 19380000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-12-03",
+        "amount": 19380000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_42",
+    "user_id": "user_42",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 52100.0,
+    "earliest_date_for_full_payment": "2026-01-05",
+    "payment_schedule": [
+      {
+        "date": "2026-01-05",
+        "amount": 52100.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 52,100.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_43",
+    "user_id": "user_43",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 15242750.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover IDR 43,339,000.00."
+  },
+  {
+    "request_id": "request_44",
+    "user_id": "user_44",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 74560.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-02-04",
+        "amount": 23950.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-03-06",
+        "amount": 23950.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-04-05",
+        "amount": 23950.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 23950.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_45",
+    "user_id": "user_45",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 8833100.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover IDR 21,983,000.00."
+  },
+  {
+    "request_id": "request_46",
+    "user_id": "user_46",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 49450.0,
+    "earliest_date_for_full_payment": "2024-12-03",
+    "payment_schedule": [
+      {
+        "date": "2024-12-03",
+        "amount": 49450.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 49,450.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_47",
+    "user_id": "user_47",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 38114000.0,
+    "earliest_date_for_full_payment": "2025-05-05",
+    "payment_schedule": [
+      {
+        "date": "2025-05-05",
+        "amount": 38114000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 38,114,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_48",
+    "user_id": "user_48",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 45700.0,
+    "earliest_date_for_full_payment": "2026-07-25",
+    "payment_schedule": [
+      {
+        "date": "2026-07-25",
+        "amount": 45700.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 45,700.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_49",
+    "user_id": "user_49",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 20228793.34,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-03-04",
+        "amount": 5722166.67,
+        "currency": "IDR"
+      },
+      {
+        "date": "2024-04-03",
+        "amount": 5722166.67,
+        "currency": "IDR"
+      },
+      {
+        "date": "2024-05-03",
+        "amount": 5722166.67,
+        "currency": "IDR"
+      },
+      {
+        "date": "2024-06-02",
+        "amount": 5722166.67,
+        "currency": "IDR"
+      },
+      {
+        "date": "2024-07-02",
+        "amount": 5722166.67,
+        "currency": "IDR"
+      },
+      {
+        "date": "2024-08-01",
+        "amount": 5722166.67,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_50",
+    "user_id": "user_50",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 43900.0,
+    "earliest_date_for_full_payment": "2025-08-06",
+    "payment_schedule": [
+      {
+        "date": "2025-08-06",
+        "amount": 43900.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 43,900.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_51",
+    "user_id": "user_51",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 2191000.0,
+    "earliest_date_for_full_payment": "2026-01-03",
+    "payment_schedule": [
+      {
+        "date": "2026-01-03",
+        "amount": 2191000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 2,191,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_52",
+    "user_id": "user_52",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 28870.0,
+    "earliest_date_for_full_payment": "2024-06-05",
+    "payment_schedule": [
+      {
+        "date": "2024-06-05",
+        "amount": 28870.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 28,870.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_53",
+    "user_id": "user_53",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1423.42,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-11-07",
+        "amount": 424.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-12-07",
+        "amount": 424.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-01-06",
+        "amount": 424.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-02-05",
+        "amount": 424.8,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_54",
+    "user_id": "user_54",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 16581.4,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover ZAR 121,528.00."
+  },
+  {
+    "request_id": "request_55",
+    "user_id": "user_55",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 203841.19,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-06-08",
+        "amount": 54650.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-07-08",
+        "amount": 54650.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-08-07",
+        "amount": 54650.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-09-06",
+        "amount": 54650.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_56",
+    "user_id": "user_56",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 881.56,
+    "earliest_date_for_full_payment": "2025-02-03",
+    "payment_schedule": [
+      {
+        "date": "2025-02-03",
+        "amount": 881.56,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 881.56 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_57",
+    "user_id": "user_57",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 21214.6,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover ZAR 61,446.00."
+  },
+  {
+    "request_id": "request_58",
+    "user_id": "user_58",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 16226000.0,
+    "earliest_date_for_full_payment": "2024-12-07",
+    "payment_schedule": [
+      {
+        "date": "2024-12-07",
+        "amount": 16226000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 16,226,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_59",
+    "user_id": "user_59",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 140600.0,
+    "earliest_date_for_full_payment": "2025-05-04",
+    "payment_schedule": [
+      {
+        "date": "2025-05-04",
+        "amount": 140600.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 140,600.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_60",
+    "user_id": "user_60",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 199.89,
+    "earliest_date_for_full_payment": "2026-01-06",
+    "payment_schedule": [
+      {
+        "date": "2026-01-06",
+        "amount": 199.89,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 199.89 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_61",
+    "user_id": "user_61",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 29062.0,
+    "earliest_date_for_full_payment": "2024-03-03",
+    "payment_schedule": [
+      {
+        "date": "2024-03-03",
+        "amount": 29062.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 29,062.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_62",
+    "user_id": "user_62",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 404.23,
+    "earliest_date_for_full_payment": "2025-08-05",
+    "payment_schedule": [
+      {
+        "date": "2025-08-05",
+        "amount": 404.23,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 404.23 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_63",
+    "user_id": "user_63",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 98295.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-07-07",
+        "amount": 85975.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-08-06",
+        "amount": 85975.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-09-05",
+        "amount": 85975.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-10-05",
+        "amount": 85975.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_64",
+    "user_id": "user_64",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 60233.01,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-06-04",
+        "amount": 15925.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2024-07-04",
+        "amount": 15925.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2024-08-03",
+        "amount": 15925.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2024-09-02",
+        "amount": 15925.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_65",
+    "user_id": "user_65",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 13024.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover ZAR 54,340.00."
+  },
+  {
+    "request_id": "request_66",
+    "user_id": "user_66",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 22200.0,
+    "earliest_date_for_full_payment": "2026-04-03",
+    "payment_schedule": [
+      {
+        "date": "2026-04-03",
+        "amount": 22200.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 22,200.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_67",
+    "user_id": "user_67",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 792.54,
+    "earliest_date_for_full_payment": "2024-09-15",
+    "payment_schedule": [
+      {
+        "date": "2024-09-05",
+        "amount": 698.0,
+        "currency": "USD"
+      },
+      {
+        "date": "2024-10-05",
+        "amount": 698.0,
+        "currency": "USD"
+      },
+      {
+        "date": "2024-11-04",
+        "amount": 698.0,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 3 monthly installments."
+  },
+  {
+    "request_id": "request_68",
+    "user_id": "user_68",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 2091.6,
+    "earliest_date_for_full_payment": "2025-02-07",
+    "payment_schedule": [
+      {
+        "date": "2025-02-07",
+        "amount": 2091.6,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 2,091.60 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_69",
+    "user_id": "user_69",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 529.1,
+    "earliest_date_for_full_payment": "2026-01-04",
+    "payment_schedule": [
+      {
+        "date": "2026-01-04",
+        "amount": 529.1,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 529.10 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_70",
+    "user_id": "user_70",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 93360.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-12-06",
+        "amount": 30487.5,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-01-05",
+        "amount": 30487.5,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-02-04",
+        "amount": 30487.5,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-03-06",
+        "amount": 30487.5,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-04-05",
+        "amount": 30487.5,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-05-05",
+        "amount": 30487.5,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-06-04",
+        "amount": 30487.5,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-07-04",
+        "amount": 30487.5,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 8 monthly installments."
+  },
+  {
+    "request_id": "request_71",
+    "user_id": "user_71",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 7485050.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover IDR 21,451,000.00."
+  },
+  {
+    "request_id": "request_72",
+    "user_id": "user_72",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 11330.0,
+    "earliest_date_for_full_payment": "2026-07-05",
+    "payment_schedule": [
+      {
+        "date": "2026-07-05",
+        "amount": 11330.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 11,330.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_73",
+    "user_id": "user_73",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 71400.0,
+    "earliest_date_for_full_payment": "2023-01-20",
+    "payment_schedule": [
+      {
+        "date": "2023-01-20",
+        "amount": 71400.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 71,400.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_74",
+    "user_id": "user_74",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 5010.0,
+    "earliest_date_for_full_payment": "2025-08-04",
+    "payment_schedule": [
+      {
+        "date": "2025-08-04",
+        "amount": 5010.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 5,010.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_75",
+    "user_id": "user_75",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 28270.0,
+    "earliest_date_for_full_payment": "2026-04-06",
+    "payment_schedule": [
+      {
+        "date": "2026-04-06",
+        "amount": 28270.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 28,270.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_76",
+    "user_id": "user_76",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 1538.8,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover USD 4,455.60."
+  },
+  {
+    "request_id": "request_77",
+    "user_id": "user_77",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 60700.0,
+    "earliest_date_for_full_payment": "2025-11-05",
+    "payment_schedule": [
+      {
+        "date": "2025-11-05",
+        "amount": 60700.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 60,700.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_78",
+    "user_id": "user_78",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 50200.0,
+    "earliest_date_for_full_payment": "2025-10-02",
+    "payment_schedule": [
+      {
+        "date": "2025-10-02",
+        "amount": 50200.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 50,200.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_79",
+    "user_id": "user_79",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1104.08,
+    "earliest_date_for_full_payment": "2024-09-15",
+    "payment_schedule": [
+      {
+        "date": "2024-09-04",
+        "amount": 1075.8,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-10-04",
+        "amount": 1075.8,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_80",
+    "user_id": "user_80",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 158825.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 217,500.00."
+  },
+  {
+    "request_id": "request_81",
+    "user_id": "user_81",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 2076.0,
+    "earliest_date_for_full_payment": "2026-07-03",
+    "payment_schedule": [
+      {
+        "date": "2026-07-03",
+        "amount": 2076.0,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 2,076.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_82",
+    "user_id": "user_82",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1102.4,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-12-05",
+        "amount": 351.3,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-01-04",
+        "amount": 351.3,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-02-03",
+        "amount": 351.3,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-03-05",
+        "amount": 351.3,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_83",
+    "user_id": "user_83",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 31130.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 156,200.00."
+  },
+  {
+    "request_id": "request_84",
+    "user_id": "user_84",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 56565.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-04-04",
+        "amount": 15900.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-05-04",
+        "amount": 15900.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-06-03",
+        "amount": 15900.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-07-03",
+        "amount": 15900.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-08-02",
+        "amount": 15900.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-09-01",
+        "amount": 15900.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_85",
+    "user_id": "user_85",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 2422120.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover IDR 19,304,000.00."
+  },
+  {
+    "request_id": "request_86",
+    "user_id": "user_86",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 46300.0,
+    "earliest_date_for_full_payment": "2025-08-03",
+    "payment_schedule": [
+      {
+        "date": "2025-08-03",
+        "amount": 46300.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 46,300.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_87",
+    "user_id": "user_87",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 92850.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 487,900.00."
+  },
+  {
+    "request_id": "request_88",
+    "user_id": "user_88",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 15557.89,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-06-07",
+        "amount": 4348.67,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-07-07",
+        "amount": 4348.67,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-08-06",
+        "amount": 4348.67,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-09-05",
+        "amount": 4348.67,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-10-05",
+        "amount": 4348.67,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-11-04",
+        "amount": 4348.67,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_89",
+    "user_id": "user_89",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 13756000.0,
+    "earliest_date_for_full_payment": "2025-11-04",
+    "payment_schedule": [
+      {
+        "date": "2025-11-04",
+        "amount": 13756000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 13,756,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_90",
+    "user_id": "user_90",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 2560.0,
+    "earliest_date_for_full_payment": "2026-07-06",
+    "payment_schedule": [
+      {
+        "date": "2026-07-06",
+        "amount": 2560.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 2,560.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_91",
+    "user_id": "user_91",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1927.2,
+    "earliest_date_for_full_payment": "2024-09-03",
+    "payment_schedule": [
+      {
+        "date": "2024-09-03",
+        "amount": 1927.2,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,927.20 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_92",
+    "user_id": "user_92",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 34034.0,
+    "earliest_date_for_full_payment": "2025-02-05",
+    "payment_schedule": [
+      {
+        "date": "2025-02-05",
+        "amount": 34034.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 34,034.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_93",
+    "user_id": "user_93",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1729.2,
+    "earliest_date_for_full_payment": "2026-04-07",
+    "payment_schedule": [
+      {
+        "date": "2026-04-07",
+        "amount": 1729.2,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 1,729.20 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_94",
+    "user_id": "user_94",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 572.0,
+    "earliest_date_for_full_payment": "2024-12-04",
+    "payment_schedule": [
+      {
+        "date": "2024-12-04",
+        "amount": 572.0,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 572.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_95",
+    "user_id": "user_95",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 137865.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 553,000.00."
+  },
+  {
+    "request_id": "request_96",
+    "user_id": "user_96",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 90200.0,
+    "earliest_date_for_full_payment": "2026-01-03",
+    "payment_schedule": [
+      {
+        "date": "2026-01-03",
+        "amount": 90200.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 90,200.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_97",
+    "user_id": "user_97",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 8865.89,
+    "earliest_date_for_full_payment": "2024-03-15",
+    "payment_schedule": [
+      {
+        "date": "2024-03-05",
+        "amount": 7832.0,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-04-04",
+        "amount": 7832.0,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-05-04",
+        "amount": 7832.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 3 monthly installments."
+  },
+  {
+    "request_id": "request_98",
+    "user_id": "user_98",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 17244.7,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-08-07",
+        "amount": 5429.6,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2025-09-06",
+        "amount": 5429.6,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2025-10-06",
+        "amount": 5429.6,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2025-11-05",
+        "amount": 5429.6,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2025-12-05",
+        "amount": 5429.6,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 5 monthly installments."
+  },
+  {
+    "request_id": "request_99",
+    "user_id": "user_99",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 18062.0,
+    "earliest_date_for_full_payment": "2026-07-04",
+    "payment_schedule": [
+      {
+        "date": "2026-07-04",
+        "amount": 18062.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 18,062.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_100",
+    "user_id": "user_100",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 35863.53,
+    "earliest_date_for_full_payment": "2024-06-15",
+    "payment_schedule": [
+      {
+        "date": "2024-06-06",
+        "amount": 18557.0,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-07-06",
+        "amount": 18557.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_101",
+    "user_id": "user_101",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 143500.0,
+    "earliest_date_for_full_payment": "2025-11-03",
+    "payment_schedule": [
+      {
+        "date": "2025-11-03",
+        "amount": 143500.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 143,500.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_102",
+    "user_id": "user_102",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1716.0,
+    "earliest_date_for_full_payment": "2026-04-05",
+    "payment_schedule": [
+      {
+        "date": "2026-04-05",
+        "amount": 1716.0,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,716.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_103",
+    "user_id": "user_103",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 43249.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 368,300.00."
+  },
+  {
+    "request_id": "request_104",
+    "user_id": "user_104",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 17204.0,
+    "earliest_date_for_full_payment": "2025-02-04",
+    "payment_schedule": [
+      {
+        "date": "2025-02-04",
+        "amount": 17204.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 17,204.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_105",
+    "user_id": "user_105",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 53500.0,
+    "earliest_date_for_full_payment": "2026-06-08",
+    "payment_schedule": [
+      {
+        "date": "2026-06-08",
+        "amount": 53500.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 53,500.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_106",
+    "user_id": "user_106",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1401.7,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-12-03",
+        "amount": 441.54,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-01-02",
+        "amount": 441.54,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-02-01",
+        "amount": 441.54,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-03-03",
+        "amount": 441.54,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-04-02",
+        "amount": 441.54,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 5 monthly installments."
+  },
+  {
+    "request_id": "request_107",
+    "user_id": "user_107",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 2534.4,
+    "earliest_date_for_full_payment": "2025-05-05",
+    "payment_schedule": [
+      {
+        "date": "2025-05-05",
+        "amount": 2534.4,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 2,534.40 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_108",
+    "user_id": "user_108",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 7836.4,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover ZAR 55,308.00."
+  },
+  {
+    "request_id": "request_109",
+    "user_id": "user_109",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1276.46,
+    "earliest_date_for_full_payment": "2024-03-15",
+    "payment_schedule": [
+      {
+        "date": "2024-03-04",
+        "amount": 931.7,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-04-03",
+        "amount": 931.7,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_110",
+    "user_id": "user_110",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 22352.0,
+    "earliest_date_for_full_payment": "2025-08-06",
+    "payment_schedule": [
+      {
+        "date": "2025-08-06",
+        "amount": 22352.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 22,352.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_111",
+    "user_id": "user_111",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 16625000.0,
+    "earliest_date_for_full_payment": "2026-04-03",
+    "payment_schedule": [
+      {
+        "date": "2026-04-03",
+        "amount": 16625000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 16,625,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_112",
+    "user_id": "user_112",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 271.7,
+    "earliest_date_for_full_payment": "2024-06-05",
+    "payment_schedule": [
+      {
+        "date": "2024-06-05",
+        "amount": 271.7,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 271.70 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_113",
+    "user_id": "user_113",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 36500.0,
+    "earliest_date_for_full_payment": "2026-09-04",
+    "payment_schedule": [
+      {
+        "date": "2026-09-04",
+        "amount": 36500.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 36,500.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_114",
+    "user_id": "user_114",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 65300.0,
+    "earliest_date_for_full_payment": "2026-01-04",
+    "payment_schedule": [
+      {
+        "date": "2026-01-04",
+        "amount": 65300.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 65,300.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_115",
+    "user_id": "user_115",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 27135.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 80,500.00."
+  },
+  {
+    "request_id": "request_116",
+    "user_id": "user_116",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 58075.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-02-03",
+        "amount": 48240.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-03-05",
+        "amount": 48240.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-04-04",
+        "amount": 48240.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-05-04",
+        "amount": 48240.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 48240.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 5 monthly installments."
+  },
+  {
+    "request_id": "request_117",
+    "user_id": "user_117",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 880.0,
+    "earliest_date_for_full_payment": "2026-07-05",
+    "payment_schedule": [
+      {
+        "date": "2026-07-05",
+        "amount": 880.0,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 880.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_118",
+    "user_id": "user_118",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 738.1,
+    "earliest_date_for_full_payment": "2024-12-07",
+    "payment_schedule": [
+      {
+        "date": "2024-12-07",
+        "amount": 738.1,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 738.10 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_119",
+    "user_id": "user_119",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 130901.01,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 203,500.00."
+  },
+  {
+    "request_id": "request_120",
+    "user_id": "user_120",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 7714000.0,
+    "earliest_date_for_full_payment": "2026-04-06",
+    "payment_schedule": [
+      {
+        "date": "2026-04-06",
+        "amount": 7714000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 7,714,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_121",
+    "user_id": "user_121",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 633.6,
+    "earliest_date_for_full_payment": "2024-03-03",
+    "payment_schedule": [
+      {
+        "date": "2024-03-03",
+        "amount": 633.6,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 633.60 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_122",
+    "user_id": "user_122",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 20558000.0,
+    "earliest_date_for_full_payment": "2025-08-05",
+    "payment_schedule": [
+      {
+        "date": "2025-08-05",
+        "amount": 20558000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 20,558,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_123",
+    "user_id": "user_123",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 4076000.0,
+    "earliest_date_for_full_payment": "2026-01-07",
+    "payment_schedule": [
+      {
+        "date": "2026-01-07",
+        "amount": 4076000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 4,076,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_124",
+    "user_id": "user_124",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 2049.56,
+    "earliest_date_for_full_payment": "2024-06-15",
+    "payment_schedule": [
+      {
+        "date": "2024-06-04",
+        "amount": 1552.1,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-07-04",
+        "amount": 1552.1,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_125",
+    "user_id": "user_125",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 6468.0,
+    "earliest_date_for_full_payment": "2025-11-06",
+    "payment_schedule": [
+      {
+        "date": "2025-11-06",
+        "amount": 6468.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 6,468.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_126",
+    "user_id": "user_126",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 159600.0,
+    "earliest_date_for_full_payment": "2026-07-03",
+    "payment_schedule": [
+      {
+        "date": "2026-07-03",
+        "amount": 159600.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 159,600.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_127",
+    "user_id": "user_127",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 23980.0,
+    "earliest_date_for_full_payment": "2024-09-05",
+    "payment_schedule": [
+      {
+        "date": "2024-09-05",
+        "amount": 23980.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 23,980.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_128",
+    "user_id": "user_128",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 25168.0,
+    "earliest_date_for_full_payment": "2025-02-07",
+    "payment_schedule": [
+      {
+        "date": "2025-02-07",
+        "amount": 25168.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 25,168.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_129",
+    "user_id": "user_129",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 288.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover USD 2,668.80."
+  },
+  {
+    "request_id": "request_130",
+    "user_id": "user_130",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 917.46,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover USD 1,978.80."
+  },
+  {
+    "request_id": "request_131",
+    "user_id": "user_131",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1855.2,
+    "earliest_date_for_full_payment": "2025-05-03",
+    "payment_schedule": [
+      {
+        "date": "2025-05-03",
+        "amount": 1855.2,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 1,855.20 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_132",
+    "user_id": "user_132",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 379.86,
+    "earliest_date_for_full_payment": "2026-01-05",
+    "payment_schedule": [
+      {
+        "date": "2026-01-05",
+        "amount": 379.86,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 379.86 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_133",
+    "user_id": "user_133",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 15770000.0,
+    "earliest_date_for_full_payment": "2024-03-07",
+    "payment_schedule": [
+      {
+        "date": "2024-03-07",
+        "amount": 15770000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 15,770,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_134",
+    "user_id": "user_134",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 12118200.0,
+    "earliest_date_for_full_payment": "2025-08-15",
+    "payment_schedule": [
+      {
+        "date": "2025-08-04",
+        "amount": 10915500.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-09-03",
+        "amount": 10915500.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_135",
+    "user_id": "user_135",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 304.8,
+    "earliest_date_for_full_payment": "2026-07-06",
+    "payment_schedule": [
+      {
+        "date": "2026-07-06",
+        "amount": 304.8,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 304.80 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_136",
+    "user_id": "user_136",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 560.4,
+    "earliest_date_for_full_payment": "2024-06-03",
+    "payment_schedule": [
+      {
+        "date": "2024-06-03",
+        "amount": 560.4,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 560.40 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_137",
+    "user_id": "user_137",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 67960.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-11-05",
+        "amount": 20025.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-12-05",
+        "amount": 20025.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-01-04",
+        "amount": 20025.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-02-03",
+        "amount": 20025.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_138",
+    "user_id": "user_138",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1256.94,
+    "earliest_date_for_full_payment": "2026-04-07",
+    "payment_schedule": [
+      {
+        "date": "2026-04-07",
+        "amount": 1256.94,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,256.94 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_139",
+    "user_id": "user_139",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 2316.0,
+    "earliest_date_for_full_payment": "2024-09-04",
+    "payment_schedule": [
+      {
+        "date": "2024-09-04",
+        "amount": 2316.0,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 2,316.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_140",
+    "user_id": "user_140",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 13079.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover ZAR 62,832.00."
+  },
+  {
+    "request_id": "request_141",
+    "user_id": "user_141",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 55245.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 171,600.00."
+  },
+  {
+    "request_id": "request_142",
+    "user_id": "user_142",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1263.6,
+    "earliest_date_for_full_payment": "2024-12-05",
+    "payment_schedule": [
+      {
+        "date": "2024-12-05",
+        "amount": 1263.6,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 1,263.60 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_143",
+    "user_id": "user_143",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 8811.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover ZAR 12,584.00."
+  },
+  {
+    "request_id": "request_144",
+    "user_id": "user_144",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 233.34,
+    "earliest_date_for_full_payment": "2026-07-04",
+    "payment_schedule": [
+      {
+        "date": "2026-07-04",
+        "amount": 233.34,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 233.34 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_145",
+    "user_id": "user_145",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 105613.66,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 217,400.00."
+  },
+  {
+    "request_id": "request_146",
+    "user_id": "user_146",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 81465.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-08-03",
+        "amount": 74900.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-09-02",
+        "amount": 74900.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-10-02",
+        "amount": 74900.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-11-01",
+        "amount": 74900.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-12-01",
+        "amount": 74900.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-12-31",
+        "amount": 74900.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_147",
+    "user_id": "user_147",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 741.53,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-04-05",
+        "amount": 225.94,
+        "currency": "EUR"
+      },
+      {
+        "date": "2026-05-05",
+        "amount": 225.94,
+        "currency": "EUR"
+      },
+      {
+        "date": "2026-06-04",
+        "amount": 225.94,
+        "currency": "EUR"
+      },
+      {
+        "date": "2026-07-04",
+        "amount": 225.94,
+        "currency": "EUR"
+      },
+      {
+        "date": "2026-08-03",
+        "amount": 225.94,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 5 monthly installments."
+  },
+  {
+    "request_id": "request_148",
+    "user_id": "user_148",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 13181.08,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-06-07",
+        "amount": 3707.0,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-07-07",
+        "amount": 3707.0,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-08-06",
+        "amount": 3707.0,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-09-05",
+        "amount": 3707.0,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-10-05",
+        "amount": 3707.0,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-11-04",
+        "amount": 3707.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_149",
+    "user_id": "user_149",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 36652.0,
+    "earliest_date_for_full_payment": "2025-11-04",
+    "payment_schedule": [
+      {
+        "date": "2025-11-04",
+        "amount": 36652.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 36,652.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_150",
+    "user_id": "user_150",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 496.1,
+    "earliest_date_for_full_payment": "2026-01-06",
+    "payment_schedule": [
+      {
+        "date": "2026-01-06",
+        "amount": 496.1,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 496.10 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_151",
+    "user_id": "user_151",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 26999000.0,
+    "earliest_date_for_full_payment": "2024-09-03",
+    "payment_schedule": [
+      {
+        "date": "2024-09-03",
+        "amount": 26999000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 26,999,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_152",
+    "user_id": "user_152",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 13882.0,
+    "earliest_date_for_full_payment": "2025-02-05",
+    "payment_schedule": [
+      {
+        "date": "2025-02-05",
+        "amount": 13882.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 13,882.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_153",
+    "user_id": "user_153",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 503.6,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover USD 2,830.80."
+  },
+  {
+    "request_id": "request_154",
+    "user_id": "user_154",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1625.8,
+    "earliest_date_for_full_payment": "2024-12-04",
+    "payment_schedule": [
+      {
+        "date": "2024-12-04",
+        "amount": 1625.8,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,625.80 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_155",
+    "user_id": "user_155",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 112500.0,
+    "earliest_date_for_full_payment": "2025-05-06",
+    "payment_schedule": [
+      {
+        "date": "2025-05-06",
+        "amount": 112500.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 112,500.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_156",
+    "user_id": "user_156",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 15205.3,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover ZAR 43,076.00."
+  },
+  {
+    "request_id": "request_157",
+    "user_id": "user_157",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 10091850.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover IDR 23,503,000.00."
+  },
+  {
+    "request_id": "request_158",
+    "user_id": "user_158",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 242600.0,
+    "earliest_date_for_full_payment": "2025-08-07",
+    "payment_schedule": [
+      {
+        "date": "2025-08-07",
+        "amount": 242600.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 242,600.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_159",
+    "user_id": "user_159",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 13398.0,
+    "earliest_date_for_full_payment": "2026-01-04",
+    "payment_schedule": [
+      {
+        "date": "2026-01-04",
+        "amount": 13398.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 13,398.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_160",
+    "user_id": "user_160",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 944.61,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-06-06",
+        "amount": 311.57,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-07-06",
+        "amount": 311.57,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-08-05",
+        "amount": 311.57,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-09-04",
+        "amount": 311.57,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_161",
+    "user_id": "user_161",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 18297950.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-11-03",
+        "amount": 5301000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-12-03",
+        "amount": 5301000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2026-01-02",
+        "amount": 5301000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2026-02-01",
+        "amount": 5301000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_162",
+    "user_id": "user_162",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 10446200.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover IDR 83,923,000.00."
+  },
+  {
+    "request_id": "request_163",
+    "user_id": "user_163",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 19304000.0,
+    "earliest_date_for_full_payment": "2024-09-07",
+    "payment_schedule": [
+      {
+        "date": "2024-09-07",
+        "amount": 19304000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 19,304,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_164",
+    "user_id": "user_164",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 27018000.0,
+    "earliest_date_for_full_payment": "2025-02-04",
+    "payment_schedule": [
+      {
+        "date": "2025-02-04",
+        "amount": 27018000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 27,018,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_165",
+    "user_id": "user_165",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 80600.0,
+    "earliest_date_for_full_payment": "2026-04-06",
+    "payment_schedule": [
+      {
+        "date": "2026-04-06",
+        "amount": 80600.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 80,600.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_166",
+    "user_id": "user_166",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 2907.6,
+    "earliest_date_for_full_payment": "2024-12-03",
+    "payment_schedule": [
+      {
+        "date": "2024-12-03",
+        "amount": 2907.6,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 2,907.60 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_167",
+    "user_id": "user_167",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 43802.0,
+    "earliest_date_for_full_payment": "2025-05-05",
+    "payment_schedule": [
+      {
+        "date": "2025-05-05",
+        "amount": 43802.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 43,802.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_168",
+    "user_id": "user_168",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 49380.0,
+    "earliest_date_for_full_payment": "2026-01-07",
+    "payment_schedule": [
+      {
+        "date": "2026-01-07",
+        "amount": 49380.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 49,380.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_169",
+    "user_id": "user_169",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 41976.0,
+    "earliest_date_for_full_payment": "2024-03-04",
+    "payment_schedule": [
+      {
+        "date": "2024-03-04",
+        "amount": 41976.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 41,976.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_170",
+    "user_id": "user_170",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 36936000.0,
+    "earliest_date_for_full_payment": "2025-08-06",
+    "payment_schedule": [
+      {
+        "date": "2025-08-06",
+        "amount": 36936000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 36,936,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_171",
+    "user_id": "user_171",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 310.65,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover EUR 1,878.80."
+  },
+  {
+    "request_id": "request_172",
+    "user_id": "user_172",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 10200.0,
+    "earliest_date_for_full_payment": "2024-06-05",
+    "payment_schedule": [
+      {
+        "date": "2024-06-05",
+        "amount": 10200.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 10,200.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_173",
+    "user_id": "user_173",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 83190.53,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-11-07",
+        "amount": 22600.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-12-07",
+        "amount": 22600.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-01-06",
+        "amount": 22600.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-02-05",
+        "amount": 22600.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-03-07",
+        "amount": 22600.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 5 monthly installments."
+  },
+  {
+    "request_id": "request_174",
+    "user_id": "user_174",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1146.2,
+    "earliest_date_for_full_payment": "2026-04-04",
+    "payment_schedule": [
+      {
+        "date": "2026-04-04",
+        "amount": 1146.2,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,146.20 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_175",
+    "user_id": "user_175",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 2346.3,
+    "earliest_date_for_full_payment": "2024-09-06",
+    "payment_schedule": [
+      {
+        "date": "2024-09-06",
+        "amount": 2346.3,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 2,346.30 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_176",
+    "user_id": "user_176",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 686.95,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-02-03",
+        "amount": 206.62,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-03-05",
+        "amount": 206.62,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-04-04",
+        "amount": 206.62,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-05-04",
+        "amount": 206.62,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 206.62,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-07-03",
+        "amount": 206.62,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_177",
+    "user_id": "user_177",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1017.6,
+    "earliest_date_for_full_payment": "2026-01-05",
+    "payment_schedule": [
+      {
+        "date": "2026-01-05",
+        "amount": 1017.6,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 1,017.60 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_178",
+    "user_id": "user_178",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 2938.1,
+    "earliest_date_for_full_payment": "2024-12-07",
+    "payment_schedule": [
+      {
+        "date": "2024-12-07",
+        "amount": 2938.1,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 2,938.10 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_179",
+    "user_id": "user_179",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 37957250.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-05-04",
+        "amount": 10412000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-06-03",
+        "amount": 10412000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-07-03",
+        "amount": 10412000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-08-02",
+        "amount": 10412000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_180",
+    "user_id": "user_180",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 66500.0,
+    "earliest_date_for_full_payment": "2026-07-06",
+    "payment_schedule": [
+      {
+        "date": "2026-07-06",
+        "amount": 66500.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 66,500.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_181",
+    "user_id": "user_181",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1491.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-03-03",
+        "amount": 1264.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2024-04-02",
+        "amount": 1264.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2024-05-02",
+        "amount": 1264.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2024-06-01",
+        "amount": 1264.8,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_182",
+    "user_id": "user_182",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 65714.0,
+    "earliest_date_for_full_payment": "2025-08-05",
+    "payment_schedule": [
+      {
+        "date": "2025-08-05",
+        "amount": 65714.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 65,714.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_183",
+    "user_id": "user_183",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 26866000.0,
+    "earliest_date_for_full_payment": "2026-04-07",
+    "payment_schedule": [
+      {
+        "date": "2026-04-07",
+        "amount": 26866000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 26,866,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_184",
+    "user_id": "user_184",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 47540.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 251,900.00."
+  },
+  {
+    "request_id": "request_185",
+    "user_id": "user_185",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 783.4,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-11-06",
+        "amount": 251.46,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-12-06",
+        "amount": 251.46,
+        "currency": "EUR"
+      },
+      {
+        "date": "2026-01-05",
+        "amount": 251.46,
+        "currency": "EUR"
+      },
+      {
+        "date": "2026-02-04",
+        "amount": 251.46,
+        "currency": "EUR"
+      },
+      {
+        "date": "2026-03-06",
+        "amount": 251.46,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 5 monthly installments."
+  },
+  {
+    "request_id": "request_186",
+    "user_id": "user_186",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 22863.5,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-01-03",
+        "amount": 6638.5,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2026-02-02",
+        "amount": 6638.5,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2026-03-04",
+        "amount": 6638.5,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2026-04-03",
+        "amount": 6638.5,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_187",
+    "user_id": "user_187",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 67435.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 187,500.00."
+  },
+  {
+    "request_id": "request_188",
+    "user_id": "user_188",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 585.3,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover EUR 2,464.00."
+  },
+  {
+    "request_id": "request_189",
+    "user_id": "user_189",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 488.4,
+    "earliest_date_for_full_payment": "2026-07-04",
+    "payment_schedule": [
+      {
+        "date": "2026-07-04",
+        "amount": 488.4,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 488.40 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_190",
+    "user_id": "user_190",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1555.8,
+    "earliest_date_for_full_payment": "2024-12-15",
+    "payment_schedule": [
+      {
+        "date": "2024-12-06",
+        "amount": 1278.75,
+        "currency": "EUR"
+      },
+      {
+        "date": "2025-01-05",
+        "amount": 1278.75,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_191",
+    "user_id": "user_191",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 664.4,
+    "earliest_date_for_full_payment": "2025-05-03",
+    "payment_schedule": [
+      {
+        "date": "2025-05-03",
+        "amount": 664.4,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 664.40 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_192",
+    "user_id": "user_192",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 384.8,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-04-05",
+        "amount": 341.0,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-05-05",
+        "amount": 341.0,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-06-04",
+        "amount": 341.0,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-07-04",
+        "amount": 341.0,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-08-03",
+        "amount": 341.0,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-09-02",
+        "amount": 341.0,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_193",
+    "user_id": "user_193",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 310.62,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover EUR 1,212.20."
+  },
+  {
+    "request_id": "request_194",
+    "user_id": "user_194",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 95030.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-08-04",
+        "amount": 26560.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-09-03",
+        "amount": 26560.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-10-03",
+        "amount": 26560.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-11-02",
+        "amount": 26560.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-12-02",
+        "amount": 26560.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 5 monthly installments."
+  },
+  {
+    "request_id": "request_195",
+    "user_id": "user_195",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1170.4,
+    "earliest_date_for_full_payment": "2026-01-06",
+    "payment_schedule": [
+      {
+        "date": "2026-01-06",
+        "amount": 1170.4,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,170.40 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_196",
+    "user_id": "user_196",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 762.3,
+    "earliest_date_for_full_payment": "2024-06-03",
+    "payment_schedule": [
+      {
+        "date": "2024-06-03",
+        "amount": 762.3,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 762.30 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_197",
+    "user_id": "user_197",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 50939000.0,
+    "earliest_date_for_full_payment": "2025-11-05",
+    "payment_schedule": [
+      {
+        "date": "2025-11-05",
+        "amount": 50939000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 50,939,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_198",
+    "user_id": "user_198",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 185800.0,
+    "earliest_date_for_full_payment": "2026-07-07",
+    "payment_schedule": [
+      {
+        "date": "2026-07-07",
+        "amount": 185800.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 185,800.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_199",
+    "user_id": "user_199",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 23674000.0,
+    "earliest_date_for_full_payment": "2024-09-04",
+    "payment_schedule": [
+      {
+        "date": "2024-09-04",
+        "amount": 23674000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 23,674,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_200",
+    "user_id": "user_200",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 21717000.0,
+    "earliest_date_for_full_payment": "2025-02-06",
+    "payment_schedule": [
+      {
+        "date": "2025-02-06",
+        "amount": 21717000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 21,717,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_201",
+    "user_id": "user_201",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 23997000.0,
+    "earliest_date_for_full_payment": "2026-04-03",
+    "payment_schedule": [
+      {
+        "date": "2026-04-03",
+        "amount": 23997000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 23,997,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_202",
+    "user_id": "user_202",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 123900.0,
+    "earliest_date_for_full_payment": "2024-12-05",
+    "payment_schedule": [
+      {
+        "date": "2024-12-05",
+        "amount": 123900.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 123,900.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_203",
+    "user_id": "user_203",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1442.1,
+    "earliest_date_for_full_payment": "2025-05-07",
+    "payment_schedule": [
+      {
+        "date": "2025-05-07",
+        "amount": 1442.1,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,442.10 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_204",
+    "user_id": "user_204",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 588.74,
+    "earliest_date_for_full_payment": "2026-01-04",
+    "payment_schedule": [
+      {
+        "date": "2026-01-04",
+        "amount": 588.74,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 588.74 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_205",
+    "user_id": "user_205",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 10621000.0,
+    "earliest_date_for_full_payment": "2024-03-06",
+    "payment_schedule": [
+      {
+        "date": "2024-03-06",
+        "amount": 10621000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 10,621,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_206",
+    "user_id": "user_206",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1404.7,
+    "earliest_date_for_full_payment": "2025-08-03",
+    "payment_schedule": [
+      {
+        "date": "2025-08-03",
+        "amount": 1404.7,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,404.70 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_207",
+    "user_id": "user_207",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 11830.0,
+    "earliest_date_for_full_payment": "2026-07-05",
+    "payment_schedule": [
+      {
+        "date": "2026-07-05",
+        "amount": 11830.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 11,830.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_208",
+    "user_id": "user_208",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 4413000.0,
+    "earliest_date_for_full_payment": "2024-06-07",
+    "payment_schedule": [
+      {
+        "date": "2024-06-07",
+        "amount": 4413000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 4,413,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_209",
+    "user_id": "user_209",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 8625.1,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover ZAR 56,914.00."
+  },
+  {
+    "request_id": "request_210",
+    "user_id": "user_210",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1360.02,
+    "earliest_date_for_full_payment": "2026-04-06",
+    "payment_schedule": [
+      {
+        "date": "2026-04-06",
+        "amount": 1360.02,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 1,360.02 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_211",
+    "user_id": "user_211",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1227.89,
+    "earliest_date_for_full_payment": "2024-09-15",
+    "payment_schedule": [
+      {
+        "date": "2024-09-03",
+        "amount": 894.3,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-10-03",
+        "amount": 894.3,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_212",
+    "user_id": "user_212",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 22344000.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-02-05",
+        "amount": 7193400.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-03-07",
+        "amount": 7193400.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-04-06",
+        "amount": 7193400.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-05-06",
+        "amount": 7193400.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 7193400.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-07-05",
+        "amount": 7193400.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-08-04",
+        "amount": 7193400.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-09-03",
+        "amount": 7193400.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-10-03",
+        "amount": 7193400.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-11-02",
+        "amount": 7193400.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 10 monthly installments."
+  },
+  {
+    "request_id": "request_213",
+    "user_id": "user_213",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 3362.4,
+    "earliest_date_for_full_payment": "2026-01-07",
+    "payment_schedule": [
+      {
+        "date": "2026-01-07",
+        "amount": 3362.4,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 3,362.40 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_214",
+    "user_id": "user_214",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 69750.0,
+    "earliest_date_for_full_payment": "2024-12-04",
+    "payment_schedule": [
+      {
+        "date": "2024-12-04",
+        "amount": 69750.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 69,750.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_215",
+    "user_id": "user_215",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 29986.0,
+    "earliest_date_for_full_payment": "2025-05-06",
+    "payment_schedule": [
+      {
+        "date": "2025-05-06",
+        "amount": 29986.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 29,986.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_216",
+    "user_id": "user_216",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 1166.8,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover USD 3,332.40."
+  },
+  {
+    "request_id": "request_217",
+    "user_id": "user_217",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 31601.97,
+    "earliest_date_for_full_payment": "2024-03-15",
+    "payment_schedule": [
+      {
+        "date": "2024-03-05",
+        "amount": 18590.0,
+        "currency": "ZAR"
+      },
+      {
+        "date": "2024-04-04",
+        "amount": 18590.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_218",
+    "user_id": "user_218",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 37942414.8,
+    "earliest_date_for_full_payment": "2025-08-15",
+    "payment_schedule": [
+      {
+        "date": "2025-08-07",
+        "amount": 30571000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-09-06",
+        "amount": 30571000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_219",
+    "user_id": "user_219",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1673.1,
+    "earliest_date_for_full_payment": "2026-04-04",
+    "payment_schedule": [
+      {
+        "date": "2026-04-04",
+        "amount": 1673.1,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,673.10 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_220",
+    "user_id": "user_220",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 387.32,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover EUR 3,118.50."
+  },
+  {
+    "request_id": "request_221",
+    "user_id": "user_221",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 109800.0,
+    "earliest_date_for_full_payment": "2025-11-03",
+    "payment_schedule": [
+      {
+        "date": "2025-11-03",
+        "amount": 109800.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 109,800.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_222",
+    "user_id": "user_222",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 34078.0,
+    "earliest_date_for_full_payment": "2026-01-05",
+    "payment_schedule": [
+      {
+        "date": "2026-01-05",
+        "amount": 34078.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 34,078.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_223",
+    "user_id": "user_223",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 898.7,
+    "earliest_date_for_full_payment": "2024-09-07",
+    "payment_schedule": [
+      {
+        "date": "2024-09-07",
+        "amount": 898.7,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 898.70 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_224",
+    "user_id": "user_224",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 10327000.0,
+    "earliest_date_for_full_payment": "2025-02-04",
+    "payment_schedule": [
+      {
+        "date": "2025-02-04",
+        "amount": 10327000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 10,327,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_225",
+    "user_id": "user_225",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 18120459.6,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-07-06",
+        "amount": 5514750.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2026-08-05",
+        "amount": 5514750.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2026-09-04",
+        "amount": 5514750.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2026-10-04",
+        "amount": 5514750.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_226",
+    "user_id": "user_226",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 157000.0,
+    "earliest_date_for_full_payment": "2024-12-03",
+    "payment_schedule": [
+      {
+        "date": "2024-12-03",
+        "amount": 157000.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 157,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_227",
+    "user_id": "user_227",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 42755.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 259,700.00."
+  },
+  {
+    "request_id": "request_228",
+    "user_id": "user_228",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 10557350.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover IDR 63,327,000.00."
+  },
+  {
+    "request_id": "request_229",
+    "user_id": "user_229",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 873.52,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover EUR 1,526.80."
+  },
+  {
+    "request_id": "request_230",
+    "user_id": "user_230",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 3537.6,
+    "earliest_date_for_full_payment": "2025-08-06",
+    "payment_schedule": [
+      {
+        "date": "2025-08-06",
+        "amount": 3537.6,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 3,537.60 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_231",
+    "user_id": "user_231",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 35706.0,
+    "earliest_date_for_full_payment": "2026-01-03",
+    "payment_schedule": [
+      {
+        "date": "2026-01-03",
+        "amount": 35706.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 35,706.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_232",
+    "user_id": "user_232",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1869.4,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-06-05",
+        "amount": 492.52,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-07-05",
+        "amount": 492.52,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-08-04",
+        "amount": 492.52,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-09-03",
+        "amount": 492.52,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_233",
+    "user_id": "user_233",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 6241000.0,
+    "earliest_date_for_full_payment": "2025-11-07",
+    "payment_schedule": [
+      {
+        "date": "2025-11-07",
+        "amount": 6241000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 6,241,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_234",
+    "user_id": "user_234",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 574.25,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover EUR 1,213.30."
+  },
+  {
+    "request_id": "request_235",
+    "user_id": "user_235",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 967.2,
+    "earliest_date_for_full_payment": "2024-09-06",
+    "payment_schedule": [
+      {
+        "date": "2024-09-06",
+        "amount": 967.2,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 967.20 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_236",
+    "user_id": "user_236",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 14404850.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover IDR 52,383,000.00."
+  },
+  {
+    "request_id": "request_237",
+    "user_id": "user_237",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 23826000.0,
+    "earliest_date_for_full_payment": "2026-04-05",
+    "payment_schedule": [
+      {
+        "date": "2026-04-05",
+        "amount": 23826000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 23,826,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_238",
+    "user_id": "user_238",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 663.6,
+    "earliest_date_for_full_payment": "2024-12-07",
+    "payment_schedule": [
+      {
+        "date": "2024-12-07",
+        "amount": 663.6,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 663.60 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_239",
+    "user_id": "user_239",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 642.0,
+    "earliest_date_for_full_payment": "2025-05-04",
+    "payment_schedule": [
+      {
+        "date": "2025-05-04",
+        "amount": 642.0,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 642.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_240",
+    "user_id": "user_240",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 39920.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover INR 101,200.00."
+  },
+  {
+    "request_id": "request_241",
+    "user_id": "user_241",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 21052000.0,
+    "earliest_date_for_full_payment": "2024-03-03",
+    "payment_schedule": [
+      {
+        "date": "2024-03-03",
+        "amount": 21052000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 21,052,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_242",
+    "user_id": "user_242",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 437.4,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover EUR 1,966.80."
+  },
+  {
+    "request_id": "request_243",
+    "user_id": "user_243",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 17468.0,
+    "earliest_date_for_full_payment": "2026-07-07",
+    "payment_schedule": [
+      {
+        "date": "2026-07-07",
+        "amount": 17468.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 17,468.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_244",
+    "user_id": "user_244",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 49918.0,
+    "earliest_date_for_full_payment": "2024-06-04",
+    "payment_schedule": [
+      {
+        "date": "2024-06-04",
+        "amount": 49918.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 49,918.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_245",
+    "user_id": "user_245",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 65760.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-11-06",
+        "amount": 21416.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2025-12-06",
+        "amount": 21416.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-01-05",
+        "amount": 21416.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-02-04",
+        "amount": 21416.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-03-06",
+        "amount": 21416.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-04-05",
+        "amount": 21416.67,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_246",
+    "user_id": "user_246",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 64086.0,
+    "earliest_date_for_full_payment": "2026-04-03",
+    "payment_schedule": [
+      {
+        "date": "2026-04-03",
+        "amount": 64086.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 64,086.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_247",
+    "user_id": "user_247",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1059.3,
+    "earliest_date_for_full_payment": "2024-09-05",
+    "payment_schedule": [
+      {
+        "date": "2024-09-05",
+        "amount": 1059.3,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,059.30 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_248",
+    "user_id": "user_248",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1507.36,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-02-07",
+        "amount": 491.4,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-03-09",
+        "amount": 491.4,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-04-08",
+        "amount": 491.4,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-05-08",
+        "amount": 491.4,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_249",
+    "user_id": "user_249",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 342.4,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-01-04",
+        "amount": 107.2,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-02-03",
+        "amount": 107.2,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-03-05",
+        "amount": 107.2,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-04-04",
+        "amount": 107.2,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-05-04",
+        "amount": 107.2,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-06-03",
+        "amount": 107.2,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_250",
+    "user_id": "user_250",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 28820.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover ZAR 124,278.00."
+  },
+  {
+    "request_id": "request_251",
+    "user_id": "user_251",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1513.6,
+    "earliest_date_for_full_payment": "2025-05-03",
+    "payment_schedule": [
+      {
+        "date": "2025-05-03",
+        "amount": 1513.6,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,513.60 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_252",
+    "user_id": "user_252",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 10098500.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover IDR 28,082,000.00."
+  },
+  {
+    "request_id": "request_253",
+    "user_id": "user_253",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 2527.57,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-03-07",
+        "amount": 710.05,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-04-06",
+        "amount": 710.05,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-05-06",
+        "amount": 710.05,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-06-05",
+        "amount": 710.05,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_254",
+    "user_id": "user_254",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 1759.6,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover USD 3,535.20."
+  },
+  {
+    "request_id": "request_255",
+    "user_id": "user_255",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 3345000.0,
+    "earliest_date_for_full_payment": "2026-04-06",
+    "payment_schedule": [
+      {
+        "date": "2026-04-06",
+        "amount": 3345000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 3,345,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_256",
+    "user_id": "user_256",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 218700.0,
+    "earliest_date_for_full_payment": "2024-06-03",
+    "payment_schedule": [
+      {
+        "date": "2024-06-03",
+        "amount": 218700.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 218,700.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_257",
+    "user_id": "user_257",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 1085.2,
+    "earliest_date_for_full_payment": "2025-11-15",
+    "payment_schedule": [
+      {
+        "date": "2025-11-05",
+        "amount": 676.2,
+        "currency": "USD"
+      },
+      {
+        "date": "2025-12-05",
+        "amount": 676.2,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 2 monthly installments."
+  },
+  {
+    "request_id": "request_258",
+    "user_id": "user_258",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1113.6,
+    "earliest_date_for_full_payment": "2026-01-07",
+    "payment_schedule": [
+      {
+        "date": "2026-01-07",
+        "amount": 1113.6,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of USD 1,113.60 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_259",
+    "user_id": "user_259",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 711.3,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-09-04",
+        "amount": 233.75,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-10-04",
+        "amount": 233.75,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-11-03",
+        "amount": 233.75,
+        "currency": "EUR"
+      },
+      {
+        "date": "2024-12-03",
+        "amount": 233.75,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_260",
+    "user_id": "user_260",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 15059400.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-02-06",
+        "amount": 13019750.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-03-08",
+        "amount": 13019750.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-04-07",
+        "amount": 13019750.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-05-07",
+        "amount": 13019750.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_261",
+    "user_id": "user_261",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1830.4,
+    "earliest_date_for_full_payment": "2026-07-03",
+    "payment_schedule": [
+      {
+        "date": "2026-07-03",
+        "amount": 1830.4,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,830.40 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_262",
+    "user_id": "user_262",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 9236000.0,
+    "earliest_date_for_full_payment": "2024-12-05",
+    "payment_schedule": [
+      {
+        "date": "2024-12-05",
+        "amount": 9236000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 9,236,000.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_263",
+    "user_id": "user_263",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 14718.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover ZAR 51,546.00."
+  },
+  {
+    "request_id": "request_264",
+    "user_id": "user_264",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 39795.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-04-04",
+        "amount": 12366.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-05-04",
+        "amount": 12366.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-06-03",
+        "amount": 12366.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-07-03",
+        "amount": 12366.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-08-02",
+        "amount": 12366.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-09-01",
+        "amount": 12366.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-10-01",
+        "amount": 12366.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-10-31",
+        "amount": 12366.67,
+        "currency": "INR"
+      },
+      {
+        "date": "2026-11-30",
+        "amount": 12366.67,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 9 monthly installments."
+  },
+  {
+    "request_id": "request_265",
+    "user_id": "user_265",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 45970.0,
+    "earliest_date_for_full_payment": "2024-03-06",
+    "payment_schedule": [
+      {
+        "date": "2024-03-06",
+        "amount": 45970.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of INR 45,970.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_266",
+    "user_id": "user_266",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 935.0,
+    "earliest_date_for_full_payment": "2025-08-03",
+    "payment_schedule": [
+      {
+        "date": "2025-08-03",
+        "amount": 935.0,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 935.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_267",
+    "user_id": "user_267",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 1925.0,
+    "earliest_date_for_full_payment": "2026-01-05",
+    "payment_schedule": [
+      {
+        "date": "2026-01-05",
+        "amount": 1925.0,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 1,925.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_268",
+    "user_id": "user_268",
+    "recommendation": "CANNOT_AFFORD",
+    "amount_safe_to_pay_today": 1512.52,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [],
+    "spending_adjustments": [],
+    "reasoning": "Insufficient projected cash flow over 90-day horizon to safely cover EUR 2,426.60."
+  },
+  {
+    "request_id": "request_269",
+    "user_id": "user_269",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 15490.0,
+    "earliest_date_for_full_payment": "2025-11-04",
+    "payment_schedule": [
+      {
+        "date": "2025-11-04",
+        "amount": 15490.0,
+        "currency": "ZAR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of ZAR 15,490.00 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_270",
+    "user_id": "user_270",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 535.4,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-07-06",
+        "amount": 504.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-08-05",
+        "amount": 504.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-09-04",
+        "amount": 504.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-10-04",
+        "amount": 504.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-11-03",
+        "amount": 504.8,
+        "currency": "USD"
+      },
+      {
+        "date": "2026-12-03",
+        "amount": 504.8,
+        "currency": "USD"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 6 monthly installments."
+  },
+  {
+    "request_id": "request_271",
+    "user_id": "user_271",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 84760.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2024-09-03",
+        "amount": 22825.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2024-10-03",
+        "amount": 22825.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2024-11-02",
+        "amount": 22825.0,
+        "currency": "INR"
+      },
+      {
+        "date": "2024-12-02",
+        "amount": 22825.0,
+        "currency": "INR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_272",
+    "user_id": "user_272",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 8815924.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2025-02-05",
+        "amount": 2717000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-03-07",
+        "amount": 2717000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-04-06",
+        "amount": 2717000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-05-06",
+        "amount": 2717000.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2025-06-05",
+        "amount": 2717000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 5 monthly installments."
+  },
+  {
+    "request_id": "request_273",
+    "user_id": "user_273",
+    "recommendation": "INSTALLMENTS",
+    "amount_safe_to_pay_today": 13372200.0,
+    "earliest_date_for_full_payment": "N/A",
+    "payment_schedule": [
+      {
+        "date": "2026-04-07",
+        "amount": 3965250.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2026-05-07",
+        "amount": 3965250.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2026-06-06",
+        "amount": 3965250.0,
+        "currency": "IDR"
+      },
+      {
+        "date": "2026-07-06",
+        "amount": 3965250.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Full payment upfront risks safety balance buffer. Recommended split into 4 monthly installments."
+  },
+  {
+    "request_id": "request_274",
+    "user_id": "user_274",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 2713.7,
+    "earliest_date_for_full_payment": "2024-12-04",
+    "payment_schedule": [
+      {
+        "date": "2024-12-04",
+        "amount": 2713.7,
+        "currency": "EUR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of EUR 2,713.70 maintains required safety buffer."
+  },
+  {
+    "request_id": "request_275",
+    "user_id": "user_275",
+    "recommendation": "BUY_NOW",
+    "amount_safe_to_pay_today": 15884000.0,
+    "earliest_date_for_full_payment": "2025-05-06",
+    "payment_schedule": [
+      {
+        "date": "2025-05-06",
+        "amount": 15884000.0,
+        "currency": "IDR"
+      }
+    ],
+    "spending_adjustments": [],
+    "reasoning": "Sufficient liquidity headroom. Full payment of IDR 15,884,000.00 maintains required safety buffer."
+  }
+]
